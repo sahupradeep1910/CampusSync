@@ -1,4 +1,4 @@
-# CampusRes — Smart Campus Resource Management Dashboard
+# CampusSync — Smart Campus Resource Management Dashboard
 
 A polished React + TypeScript dashboard for managing shared campus resources such as books, laptops, lab equipment and sports inventory.
 
@@ -17,6 +17,23 @@ A polished React + TypeScript dashboard for managing shared campus resources suc
 
 ## 🧰 Tech Stack
 React 19 • TypeScript • Vite • React Router • Lucide React
+
+## 📸 Screenshots
+
+### Dashboard
+![CampusConnect Dashboard](./dashboard.png)
+
+### Campus Resource Inventory
+![Campus Resource Inventory](./inventory.png)
+
+### Filter By Choice
+![Campus Resource Inventory](./filter.png)
+
+### issue
+![Campus Resource Inventory](./issue.png)
+
+### Borrowing And Return inventory
+![Campus Resource Inventory](./return.png)
 
 ## 🚀 Run locally
 ```bash
